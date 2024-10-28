@@ -1,1 +1,1 @@
-# Image-Compression-Using-Chroma-and-Luma-Subsampling
+This project implements an image compression technique using 4:2:0 chroma and luma subsampling to eliminate inter-pixel redundancy. It features two upsampling methods—Row-Column Replication and Bicubic Interpolation—to reconstruct the downsampled chrominance channels (Cb and Cr). The results achieved Mean Squared Error (MSE) values of 1.87 and 0.58, respectively.
